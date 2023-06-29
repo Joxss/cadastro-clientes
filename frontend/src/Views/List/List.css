@@ -1,0 +1,17 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container .accordion-item {
+  width: 50%;
+  border: 1px #000 solid
+}
+
+.list-container .accordion-details {
+  border-top: 1px #bcc2ca solid;
+  display: flex;
+  flex-direction: column;
+}
